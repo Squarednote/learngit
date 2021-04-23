@@ -1,4 +1,4 @@
 # a git learning project
 
-git is a distrubuted version control system
-git is a free software
+git is a distrubuted version control system.
+git is a free software distributed under the GPL
